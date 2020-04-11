@@ -1,0 +1,36 @@
+.theimage {
+  margin: auto;
+  display: flex;
+  padding: 10px;
+  align-items: center;
+  justify-content: center;
+}
+
+.desc {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.name {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+
+.types {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

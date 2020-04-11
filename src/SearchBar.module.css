@@ -1,0 +1,14 @@
+.input > img {
+  height: 50px;
+  width: 50px;
+}
+
+.input {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.input > input {
+  height: 25px;
+}

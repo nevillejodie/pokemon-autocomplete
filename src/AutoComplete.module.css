@@ -1,0 +1,14 @@
+.modules {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.pics {
+  height: 50px;
+  width: 50px;
+}
+
+li {
+  list-style: none;
+}
